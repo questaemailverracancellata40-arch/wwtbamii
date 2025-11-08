@@ -1,0 +1,117 @@
+img {
+	position:absolute;
+	margin:auto;
+}
+
+.fastestFingerLeftGlowImg {
+	top:0px;
+	bottom:0px;
+	left:400px;
+}
+
+.fastestFingerRightGlowImg {
+	top:0px;
+	bottom:0px;
+	right:400px;
+}
+
+.fastestTimeCorrectFillImg {
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.fastestTreeAnswerDiagonalImg {
+	top:0px;
+	bottom:0px;
+	left:50px;
+	width:30px;
+}
+
+.finalImg {
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.diagonalImg {
+	top:0px;
+	bottom:0px;
+	left:20px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.correctImg {
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.lifelineCenterImg {
+	width:150px;
+	height:122px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.lifelineCenterGlowImg {
+	top:-30px;
+	bottom:-30px;
+	left:-30px;
+	right:-30px;
+	width:150px;
+	height:122px;
+}
+
+.lifelineTreeImg {
+	height:100px;
+}
+
+.lifelineStrapImg {
+	height:140px;
+}
+
+.lifelineYellowTreeImg {
+	height:100px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.lifelineYellowStrapImg {
+	height:140px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.lifelineUsedImg{
+	height:100px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.lifelineUsedStrapImg{
+	height:140px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.moneyTreeDiagonalImg{
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	margin:auto;
+}
+
+.sideStrapGoldImg{
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}

@@ -1,0 +1,92 @@
+table {
+	margin:auto;
+	position:absolute;
+	padding:0px;
+}
+
+.moneyTreeTable {
+	line-height: 0.685;
+	font-size: 0;
+	left:25px;
+	bottom:75px;
+	border-collapse:collapse;
+	scale:100% 100%;
+	transform-origin:left;
+}
+
+.moneyTreeAmountTd {
+	font-family:CopperplateBold;
+	font-size:35pt;
+	color:#EA932C;
+	font-weight:bold;
+	padding:10px;
+	width:600px;
+	letter-spacing:3px;
+	background-size:cover;
+	background-position-x:-750px;
+	background-repeat:no-repeat;
+}
+
+.moneyTreeAmountWhiteTd {
+	font-family:CopperplateBold;
+	font-size:35pt;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:10px;
+	width:600px;
+	letter-spacing:3px;
+	background-size:cover;
+	background-position-x:-750px;
+	background-repeat:no-repeat;
+}
+
+.moneyTreeDiagonalTd {
+	vertical-align:middle;
+	min-width:30px;
+	background-position:center;
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+.moneyTreeLevelTd {
+	font-family:CopperplateBold;
+	font-size:35pt;
+	color:#EA932C;
+	font-weight:bold;
+	padding:10px;
+	padding-left:25px;
+	text-align:left;
+	letter-spacing:3px;
+	background-size:cover;
+}
+
+.moneyTreeLevelWhiteTd {
+	font-family:CopperplateBold;
+	font-size:35pt;
+	color:#FFFFFF;
+	font-weight:bold;
+	padding:10px;
+	padding-left:25px;
+	text-align:left;
+	letter-spacing:3px;
+	background-size:cover;
+}
+
+.questionTable {
+	width:1500px;
+	max-width:1500px;
+	height:100%;
+	bottom:0px;
+	top:0px;
+	margin-left:205px;
+}
+
+.questionTd {
+	vertical-align:middle;
+	font-size:30pt;
+	font-family:Verdana;
+	color:#FFFFFF;
+	letter-spacing:-2px;
+	line-height: 1.4;
+	text-align:center;
+}

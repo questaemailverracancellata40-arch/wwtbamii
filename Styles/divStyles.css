@@ -1,0 +1,378 @@
+div {
+	position:absolute;
+	margin:auto;
+}
+
+.answerStrapDiv {
+	width:1920px;
+	height:96px;
+	left:0px;
+	right:0px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.answerGroupADiv {
+	-webkit-transform-origin-x:960px;
+	-webkit-transform-origin-y:-174px;
+	-webkit-transform-origin-z:0px;
+}
+
+.answerGroupBDiv {
+	-webkit-transform-origin-x:960px;
+	-webkit-transform-origin-y:-74px;
+	-webkit-transform-origin-z:0px;
+}
+
+.answerStrapLifeLineCenterDiv {
+	bottom:62px;
+	left:0px;
+	right:0px;
+	width:150px;
+	height:122px;
+}
+
+.answerStrapLifeLineCenterContainerDiv {
+	bottom:0px;
+	left:0px;
+	right:0px;
+	top:0px;
+	width:150px;
+	height:122px;
+}
+
+.ataGraphDiv {
+	width:330px;
+	height:500px;
+	background:url('../Images/audience_graph.png') no-repeat;
+	top:125px;
+	right:-330px;
+}
+
+.ataGraphBarDiv {
+	background:url('../Images/audience_answer_bar.png') no-repeat;
+	width:45px;
+	bottom:50px;
+}
+
+.ataGraphPercentDiv{
+	font-family:Verdana;
+	font-size:20pt;
+	text-align:center;
+	width:75px;
+	color:white;
+	top:20px;
+}
+
+.ataPercentStrapDiv {
+	width:146px;
+	height:70px;
+	background:url('../Images/ata_percent_strap_background.png') no-repeat;
+	top:0px;
+	bottom:2px;
+	right:15px;
+	color:white;
+	font-family:Verdana;
+	font-size:28pt;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+	
+}
+
+.contestantNameAndLocationDiv {
+	width:1920px;
+	height:244px;
+	bottom:50px;
+	background:url('../Images/Large_Win_Strap_Stretched_Gradient_Filled.png') no-repeat;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.currentLevelStrapDiv {
+	width:648px;
+	height:75px;
+	background:url('../Images/small_side_strap_fill.png') no-repeat;
+	top:25px;
+	right:-648px;
+	overflow:hidden;
+}
+
+.currentLevelStrapAmountDiv{
+	color:#EA932C;
+	font-family:CopperplateBold;
+	font-size:40pt;
+	height:60px;
+	width:640px;
+	top:10px;
+	bottom:0px;
+	left:-32px;
+	text-align:center;
+	scale:100% 100%;
+}
+
+.fastestContestantDiv {
+	height:80px;
+	width:1920px;
+	background:url('../Images/fastest_time_strap_gradient.png') no-repeat;
+}
+
+.fastestFingerContestantsDiv {
+	width:1920px;
+	height:845px;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.logoContainerDiv {
+	background-color:black;
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.logoDiv{
+	width:450px;
+	height:450px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+}
+
+.stageContainerDiv {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	overflow:hidden;
+	background:url('../Images/backGround.png') no-repeat;
+}
+
+.fastestFingerRevealOrderDiv{
+	background:url('../Images/tree_background.png') no-repeat;
+	height:1080px;
+	width:760px;
+	right:-760px;
+	top:0px;
+	bottom:0px;
+}
+
+.fastestFingerTreeAnswerDiv{
+	background:url('../Images/fastest_tree_strap_fill.png') no-repeat;
+	width:780px;
+	height:96px;
+	left:760px;
+}
+
+.fastestFingerTreeQuestionDiv {
+	width:500px;
+	height:390px;
+	top:150px;
+	left:50px;
+	line-height:1.25;
+}
+
+.leftAnswerDiv {
+	width:857px;
+	height:96px;
+	left:104px;
+}
+
+.lifeLinesLeftStrapDiv {
+	width:1696px;
+	height:200px;
+	background:url('../Images/large_lifeline_strap_holder.png') no-repeat;
+	bottom:22px;
+	left:1920px;
+	overflow:hidden;
+}
+
+.lifelineTreeDiv {
+	top:-50px;
+	bottom:-50px;
+	right:-50px;
+	left:-50px;
+	width:123px;
+	height:100px;
+}
+
+.lifelineTreeHolderDiv{
+	width:123px;
+	height:100px;
+}
+
+.lifelineStrapHolderDiv{
+	width:200px;
+	height:162px;
+}
+
+.lifeLineStrapDiv {
+	height:140px;
+	width:171px;
+	top:-50px;
+	left:-50px;
+	bottom:-50px;
+	right:-50px;
+}
+
+.millionaireWinnerNameDiv{
+	width:1920px;
+	height:80px;
+	left:0px;
+	right:0px;
+	top:50px;
+	color:white;
+	font-family:CopperplateBold;
+	text-align:center;
+	font-size:60pt;
+	letter-spacing:2px;
+}
+
+.millionaireWinnerDiv {
+	width:1920px;
+	height:130px;
+	left:0px;
+	right:0px;
+	bottom:57px;
+	color:#EA932C;
+	font-family:CopperplateBold;
+	text-align:center;
+	font-size:80pt;
+	letter-spacing:5px;
+}
+
+.millionaireWinnerTitleDiv {
+	width:1920px;
+	height:387px;
+	background:url('../Images/bottom_overlay.png') no-repeat;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.moneyTreeDiv {
+	background:url('../Images/tree_background.png') no-repeat;
+	height:1080px;
+	width:760px;
+	right:-760px;
+	top:0px;
+	bottom:0px;
+	overflow:hidden;
+}
+
+.pafClockDiv {
+	width:400px;
+	height:400px;
+	background:url('../Images/paf_clock_background.png') no-repeat;
+	bottom:550px;
+	right:-400px;
+}
+
+.pafClockTimeDiv {
+	font-family:Copperplatebold;
+	color:white;
+	font-size:120pt;
+	width:400px;
+	height:164px;
+	left:0px;
+	right:0px;
+	top:120px;
+	text-align:center;
+}
+
+.rightAnswerDiv {
+	width:857px;
+	height:96px;
+	right:104px;
+}
+
+.questionStrapDiv {
+	width:1920px;
+	height:192px;
+	background:url('../Images/Large_Strap_Gradient.png') no-repeat;
+	bottom:225px;
+	left:0px;
+	right:0px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.stageBackgroundDiv {
+	width:1920px;
+	height:1080px;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+}
+
+.totalPrizeMoneyDiv {
+	width:1920px;
+	height:387px;
+	background:url('../Images/bottom_overlay.png') no-repeat;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
+
+.totalPrizeDiv {
+	width:1920px;
+	height:80px;
+	left:0px;
+	right:0px;
+	top:50px;
+	color:white;
+	font-family:CopperplateBold;
+	text-align:center;
+	font-size:60pt;
+	letter-spacing:2px;
+}
+
+.totalPrizeMoneyWonDiv {
+	width:1920px;
+	height:130px;
+	left:0px;
+	right:0px;
+	bottom:57px;
+	color:#EA932C;
+	font-family:CopperplateBold;
+	text-align:center;
+	font-size:80pt;
+	letter-spacing:5px;
+	scale:100% 100%;
+}
+
+.winStrapDiv {
+	width:1920px;
+	height:192px;
+	background:url('../Images/Large_Win_Strap_Filled.png') no-repeat;
+	left:0px;
+	right:0px;
+	bottom:100px;
+	opacity:0;
+	-moz-opacity:0;
+	-webkit-opacity:0;
+}
